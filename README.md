@@ -1,1 +1,2 @@
-# learning_platform_nexverse
+# devops-nexverse
+Nexverse devops course - Oct 2026
